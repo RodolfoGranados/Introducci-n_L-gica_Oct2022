@@ -1,0 +1,18 @@
+# Type = Class  Te da la clase de una varible. (Entero, decimal, logico, texto)
+ROMBO = CONDICIONES CON DOS POSIBLES RESULTADOS "Si la condición se cumple ejecutamos el proceso 1 o 2" y finalizamos. 
+RECTANUGULO o CUADRADO = Proceso
+Círculo = Finalización 
+
+
+
+IF = SI UNA CONDICIÓN SE CUMPLE EJECUTA Y FIN
+ELIF = SI EN OTRA CONDICIÓN N , SI SE CUMPLIO EJECUTA EL N DE PROCESO QUE DIGAS Y FIN 
+ELSE = SI NINGUNA CONDICIÓN SE CUMPLIO EJECUTA OTRO PROCESO_en_OTRO_CASO Y FIN 
+: Los dos puntos van despues de digitar tu condicional para después ejecutar el proceso. 
+
+
+ALGORITMO: Serie de pasos consecutivos que se siguen para resolver un problema. 
+Tiene 3 carácteristicas: 
+FINITO : tiene un fin 
+EFICIENTE= Menos recursos de memoria en su procesamiento (Menos recursos)
+EFICAZ = Debe cumplir el objetivo

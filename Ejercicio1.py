@@ -4,15 +4,19 @@
 #Declarar o creación de variables.
 calificación_1 = float(input("Escribe la 1era calififación: "))
 calificación_2 = float(input("Escribe la 2da calififación: "))
-calificación_3 = float(input("Escribe la 3era calififación: "))
 
 
 # PROCESOS
-suma = calificación_1 + calificación_2 + calificación_3
-Promedio = suma / 3
+suma = calificación_1 + calificación_2 
+Promedio = suma / 2
 
 
 #Salida de procesos
-print("El promedio =", Promedio)
+print(f"El promedio es= {Promedio}")
 
-#TERMINAR ESTA CON LAS CONDICIONALES
+if(Promedio <6):
+    print("Reprobado")
+elif(Promedio >=6):
+    print("Aprobado")
+
+
